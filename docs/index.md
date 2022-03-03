@@ -8,7 +8,7 @@ Contact E-mail: binqingwu@zju.edu.cn
 
 ## Research Interests
 
-Multiple Time Series Forecasting, Graph Neural Network
+Multi-variate Time Series (MTS) Forecasting, Graph Neural Network
 
 ---
 
