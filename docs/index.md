@@ -15,7 +15,7 @@ Multi-variate Time Series Forecasting, Graph Neural Network
 ## Education
 
 - **2020-Recent**
-    - Ph.D., Computer Science, College of Computer Science and Technology, Zhejiang University, Advisor: Prof. [Ling Chen](https://scholar.google.com/citations?hl=zh-CN&user=Vxi9eakAAAAJ&view_op=list_works&sortby=pubdate)
+    - Ph.D., Computer Science, College of Computer Science and Technology, Zhejiang University, Supervisor: Prof. [Ling Chen](https://scholar.google.com/citations?hl=zh-CN&user=Vxi9eakAAAAJ&view_op=list_works&sortby=pubdate)
 - **2016-2020**
     - B.Eng., Computer Science, School of Computing, University of Leeds
       
@@ -42,6 +42,7 @@ Multi-variate Time Series Forecasting, Graph Neural Network
 
 ### Preprints
 
+- **Binqing Wu**, Ling Chen. Spatial-temporal cross relation networks for traffic forecasting. 2022.
 - Ling Chen, Hanyu Long, Jiahui Xu, **Binqing Wu**, Hang Zhou, Xing Tang, Liangying Peng. Deep Citywide Multi-Source Data Fusion Based Air Quality Estimation. 2022.
 - Ling Chen, Weiqi Chen, **Binqing Wu**, Youdong Zhang, Bo Wen, Chenghu Yang. [Learning from Multiple Time Series: A Deep Disentangled Approach to Diversified Time Series Forecasting](https://arxiv.org/abs/2111.04942). arXiv. 2021.
 - Ling Chen, Jiahui Xu, **Binqing Wu**, Yuntao Qian, Zhenhong Du, Yansheng Li, Yongjun Zhang. [Group-Aware Graph Neural Network for Nationwide City Air Quality Forecasting](https://arxiv.org/abs/2108.12238). arXiv. 2021.
